@@ -1,1 +1,3 @@
-# configuration
+# Configuration
+Misc productivity configurations
+

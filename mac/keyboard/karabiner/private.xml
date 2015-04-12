@@ -4,7 +4,7 @@
     <name>Remap Left Control to Hyper</name>
     <appendix>OS X doesn't have a Hyper. This maps Left Control to Control + Shift + Option + Command.</appendix>
 
-    <identifier>space_cadet.left_control_to_hyper</identifier>
+    <identifier>private.caps_lock_to_hyper</identifier>
 
     <autogen>
         --KeyToKey--
